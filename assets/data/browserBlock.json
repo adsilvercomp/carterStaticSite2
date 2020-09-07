@@ -1,0 +1,19 @@
+{
+    "browsers":[
+        {
+            "name":"chrome",
+            "image": "chrome.png",
+            "link": "https://www.google.com/intl/en/chrome/"
+        },
+        {
+            "name":"safari",
+            "image": "safari.png",
+            "link": "https://www.apple.com/safari/"
+        },
+        {
+            "name":"firefox",
+            "image": "firefox.png",
+            "link": "https://www.mozilla.org/en-US/firefox/new/"
+        }
+    ]
+}

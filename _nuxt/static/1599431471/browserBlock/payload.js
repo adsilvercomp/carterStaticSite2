@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/browserBlock", {data:[{}],fetch:[],mutations:void 0});

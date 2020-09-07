@@ -1,0 +1,86 @@
+{
+    "header": "When we work together you'll learn how to be more flexible and less reactive to what goes on around you: how to feel happier, calmer, and more satisfied.",
+
+    "subHeader":"I'll provide a safe place for us to connect and work together for your maximum benefit. Everything that happens in therapy happens in the context of a safe and considerate working relationship.",
+    
+    "techniques":[
+       
+        {
+            "header": "Psychodynamic Therapy", 
+            "text": "Psychodynamic therapy means examining your life so that you gain insight into what may have happened to you and why you react in the ways you do. You'll learn how your patterns of thinking, behaving and feeling developed; how they may have been successful coping skills in your family of origin and early life, but may not be working well for you in your relationship now.",
+            "link": [],
+            "icon": "psychodynamicTherapy.png"
+        },
+        {
+            "header":"Cognitive Behavioral Therapy (CBT)",
+            "text": "CBT is learning about your private thoughts, what you say to yourself. First, you'll learn how to examine your thinking patterns, and then how to change negative irrational patterns into positive, productive, and effective ones. You'll find yourself thinking positive thoughts about yourself and others.",
+            "link": [],
+            "icon": "cbt.png"
+        },
+        {
+            "header": "Behavior Therapy",
+            "text": "Sometimes we may focus directly on your behavior and talk about how to change destructive or ineffective behaviors.",
+            "link": [],
+            "icon": "behaviorTherapy.png" 
+        },
+        {
+            "header":"Guided Visual Imagery",
+            "text":"Guided visual imagery is an important tool that you can use for different issues, including using it to boost your immune system and improve overall wellbeing. The process of using visual imagery is enhanced by relaxation and meditation. I find visual imagery particularly useful when one experiences pain, or an illness such as a cough or cold. To learn more, please follow this",
+            "link":[
+                {
+                    "type":"link",
+                    "url":"https://google.com",
+                    "text":"'simple exercise in guided visual imagery'"
+                },
+                {
+                    "type":"text",
+                    "url":null,
+                    "text":"or explore "
+                },
+                {
+                    "type":"link",
+                    "url":"https://google.com",
+                    "text":"'The Guided Imagery Collection: Relaxing Meditations for Health and Healing'."
+                }
+
+            ],
+            "icon":"bearPawColor.png"
+        },
+        {
+            "header": "Hypnosis",
+            "text": "Hypnosis is a state of inner absorption, concentration, and focused attention.  When our minds are concentrated and focused, it seems that we’re able to use them more powerfully to accomplish our goals, whether they be to feel better, change a habit, reduce pain, recover from an injury, prepare for surgery, fall asleep easily, or understand why we feel certain ways.  Most people find hypnosis very relaxing.",
+            "link": [],
+            "icon": "hypnosis.png" 
+        },
+        {
+            "header": "Couples Counseling",
+            "text": "In couples counseling we focus on communication, mutual respect, values, problem solving, negotiation, and empathy, as we work together to resolve issues and connect in a way that is emotionally satisfying to you.",
+            "link": [],
+            "icon": "couplesCounseling.png"
+        },
+        {
+            "header": "Parent Consultation",
+            "text": "Parents are concerned about their children.  You may want advice about how to handle normal developmental stages, discipline, expectations, or you may need help with handling family transitions such as separation, divorce or death.  When people are in their own individual or couples counseling with me, I often talk about how their healthy changes will have a positive impact on their children.",
+            "link": [],
+            "icon": "parentConsultation.png"
+        },
+        {
+            "header": "Group Work",
+            "text": "I offer a group called Emotional Fitness Program for Women.  I teach the psychological skills necessary for a satisfying and happy life.",
+            "link": [],
+            "icon": "groupWork.png"
+        },
+        {
+            "header": "Meditation and Relaxation for Health and Healing",
+            "text": "This is stress relief. Learn how to calm your body and mind to promote good health and healing. Please see my Guided Imagery Collection.",
+            "link": [],
+            "icon": "meditation.png"
+        },
+        {
+            "header": "Spiritual Exploration",
+            "text": "What is the meaning of my life? What happens after death? How can I recover from grief? What does spirituality mean to me? We can explore your spiritual beliefs and experiences to answer these and other questions to find comfort and peace.",
+            "link": [],
+            "icon": "spiritualExploration.png"
+        }
+    ]
+}

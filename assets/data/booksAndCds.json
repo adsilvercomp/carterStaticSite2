@@ -1,0 +1,24 @@
+{
+   "headerText":"The Guided Imagery Collection",
+   "subHeaderText":"RELAXING MEDITATIONS FOR HEALTH AND HEALING",
+   "headerInfo":"Dr. Stephanie Carter is the author and narrator of the Guided Imagery Collection, a series of 5 CD's and 1 book that will help you use your own natural resources to feel better. Listen to relaxing imagery with Dr. Carter's soothing voice over calming, classical music. Each CD has a different focus depending on your needs.",
+   "bookList":[
+       {
+            "title": "TAKING CHARGE OF FIGHTING CANCER",
+            "imageUrl":"fightingCancer.jpg",
+            "paragraphs":[
+                {
+                    "text":"This book is a short, easy interactive workbook that contains everything a patient needs to know about dealing with the psychological aspects of cancer. The workbook includes 7 chapters which can be read in order. Each chapter has several easy exercises that readers can do at their own pace and in any order."
+                },
+                {
+                    "text":"While other books talk about the importance of imagery to fight cancer, this book shows you what to do and how to order or download an audio CD that is full of healing imagery. The CD was written by Dr. Carter to accompany this book, and it is recorded in her own voice. If you or somone you know suffers from cancer, this workbook and CD will send a message of hope and empowerment."
+                },
+                {
+                    "text":"According to Carolyn S. Garwood, Ph.D., Professor Emerita, Counseling Psychology at the Univeristy of Miami, this book's '...unique blend of warm, personal approach with accurate and up-to-date medical and psychological information will make it an invaluable too not only for cancer patients, but for family, friends, caretakers and others working towards the most effective integrative interventions.'"
+                }
+            ],
+            "audioLink":"https://impresario-files.s3.amazonaws.com/music/Mutiny.mp3",
+            "workBookLink":"https://google.com"
+       }
+   ]
+}

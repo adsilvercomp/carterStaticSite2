@@ -1,0 +1,29 @@
+
+  /* $font-color:#4d4d4d;
+  $accent-color:#79a2b0;
+  $light-gray:#807f7f; */
+
+  @font-face {
+    font-family: myriad-regular;
+    src: url('./fonts/MyriadPro-Light.otf');
+  }
+  @font-face {
+    font-family: myriad-semi-bold;
+    src: url('./fonts/MYRIADPRO-SEMIBOLD.OTF');
+  }
+  @font-face {
+    font-family: myriad-ital;
+    src: url('./fonts/MyriadPro-Italic-regular.otf');
+  }
+  @font-face {
+    font-family: Artifakt-ital;
+    src: url('./fonts/Artifakt-Element-Italic.ttf');
+  }
+   @font-face {
+    font-family: Artifakt-Bold-ital;
+    src: url('./fonts/Artifakt-Element-Bold-Italic.ttf');
+  }
+  @font-face {
+    font-family: Artifakt-Regular;
+    src: url('./fonts/Artifakt-Element-Regular.ttf');
+  }

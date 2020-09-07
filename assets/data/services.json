@@ -1,0 +1,49 @@
+{
+    "header": "Dr. Carter offers both telehealth and in-person psychotherapy sessions for individuals, couples, families, and groups, focusing on anxiety, depression, stress, relationship issues, and challenging life transitions.",
+
+    "preText": "Psychotherapy with Dr. Carter helps you improve your mood and find relief from experiences such as ...",
+
+    "serviceList":[
+        {
+            "list":[
+                "Anxiety", 
+                "Depression",
+                 "Relationship Difficulties", 
+                 "Life Transition Difficulties",
+                 "Stress", 
+                 "Cancer & Other Illness"
+            ]
+        },
+        {
+            "list":[
+                "Pain Management", 
+                "Eating & Weight Problems", 
+                "Habit Problems", 
+                "Recovery and Trauma", 
+                "Dealing with Aging Parents", 
+                "Worry About Your Child"
+            ]
+        },
+        {
+            "list":[
+                "Divorce", 
+                "Hopelessness", 
+                "Feeling Stuck", 
+                "Loneliness", 
+                "Low self-esteem", 
+                "Panic attacks"
+            ]
+        }
+    ], 
+    "paragraph":[
+        {
+            "text": "Dr. Carter has been treating adolescents and adults for over 30 years. With clients from diverse ethnic, cultural, and religious background, she has learned over the years that her experience treating a wide range of peoploe has helped her serve everyone better."
+        },
+        {
+            "text": "Dr. Carter can help you with problems from childhood, anxieties about the future, and difficulties in the present - helping you make peace with and move on from your childhood, create hope and vision for your future, and find meaning and enjoyment in your present, including your relationships with others."
+        },
+        {
+            "text": "As an integrative psychologist, Dr. Carter uses a wide range of therapies to help you achieve your goals."
+        }
+    ]
+}
